@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/galaxy.jpg</file>
+        <file>Images/gameover.png</file>
+        <file>Images/icon.png</file>
+        <file>Images/saturn.png</file>
+    </qresource>
+</RCC>
